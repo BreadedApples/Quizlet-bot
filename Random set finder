@@ -1,0 +1,1 @@
+document.location.href = 'https://quizlet.com/' + Math.floor((Math.random() * 3001000) + 1000) + '/match';
