@@ -1,3 +1,4 @@
+//hold click for it to work, much like the larger code version
 (function() {
   var clickerIsMouseDown = false;
   var clickerCurrentMouseTarget = document.body;
