@@ -1,1 +1,5 @@
-69
+(function() {
+var x = document.createElement("script");
+x.src = "https://raw.githubusercontent.com/overboen/AutoclickerJS/master/HoldClick.js";
+document.head.appendChild(x);
+})();
